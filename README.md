@@ -1,5 +1,5 @@
 # DSA Route Planning Algorithm Project
-In this project I have programmed a code in Python using the A* Algorithm which calculates the shortest path between two given points on the map.
+In this DSA project I have programmed a code in Python using the A* Algorithm which calculates the shortest path between two given points on the map.
 ## Introduction
 In this project I have 
 <a href="RoutePlanner"  >
